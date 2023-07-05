@@ -1,4 +1,4 @@
-## Olá, meu nome é <strong>{Ernani Da Costa}!</strong>
+## Olá, meu nome é <strong>print(Ernani Da Costa!)</strong>
 
 > Sou um desenvolvedor backend Python com experiência em várias empresas e projetos. 
 
