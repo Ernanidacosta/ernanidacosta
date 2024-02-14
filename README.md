@@ -1,4 +1,4 @@
-## Olá, meu nome é <strong>print(Ernani Da Costa!)</strong>
+## Olá, meu nome é <strong>Ernani Da Costa</strong>
 
 > Sou um desenvolvedor backend Python com experiência em várias empresas e projetos. 
 
@@ -7,6 +7,8 @@
 - Na NECTO Systems, fui um Desenvolvedor Python, participando de projetos que envolviam Python, Django, PostgreSQL, Docker, Scrum, Jira, Git.
 
 - Na Wings como Desenvolvedor Backend Python, atuei no desenvolvimento web utilizando Python, Django, GraphQL, Redis, RabbitMQ, PostgreSQL, Docker, Scrum, Jira, Git.
+
+- Na Germinare como desenvolvedor backend atuo usando Python, FastAPI, e PostgreSQL, desenvolvendo uma plataforma interna de suporte à consultoria, e CRM interno
 ----
 
 ## 🚀 Minhas Skills
